@@ -1,4 +1,4 @@
-# 🤖 JARVIS AI Assistant (Advanced UI + Full PC Automation)
+# 🤖 JARVIS AI Assistant (Basic UI + Full PC Automation)
 
 An advanced **voice-controlled AI assistant** built using Python with a modern GUI and full system automation capabilities.
 
