@@ -114,7 +114,7 @@ python main.py
 * Wake word detection ("Hey Jarvis")
 * Face recognition login
 * Mobile app integration
-* Advanced animations (Iron Man UI)
+* Advanced animations 
 
 ---
 
