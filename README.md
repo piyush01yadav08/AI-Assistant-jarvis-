@@ -127,11 +127,7 @@ This project demonstrates:
 * System automation
 * Real-world application design
 
-Perfect for:
 
-* 💼 Placement portfolios
-* 📂 GitHub showcase
-* 🎤 Interview discussions
 
 ---
 
